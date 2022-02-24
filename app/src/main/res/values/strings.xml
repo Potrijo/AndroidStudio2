@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="button">Button</string>
+    <string name="s1">Sumar</string>
+    <string name="s2">Restar</string>
+    <string name="s3">Augmentar</string>
+    <string name="s4">Disminuir</string>
+    <string name="s5">Mostrar</string>
+    <string name="s6">Color de fons</string>
+    <string name="s7">Color del text</string>
+    <string name="s8">0</string>
+    <string name="s9">Amagar</string>
+
+</resources>
